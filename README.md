@@ -3,8 +3,8 @@ This includes files for project #1 a written report that includes a scope of wor
 
 The repositor includes the following files:
 -[Raw Data](AirQuality_Daily_StudentVersion.csv)
--[Project Code](Project 1 .ipynb)
+-[Project Code](Project/1/.ipynb)
 -[scope of work](ScopeofWork.docx)
--[Annoted Code](AnnotedCodeProject1.xlsx)
+-[Annoted Code](Annoted/Code/Project/1.xlsx)
 
 
